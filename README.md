@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Alison 🌿
+
+## Web developer based in Osaka, Japan.
 
 <!--
 **AlisonJeffrey/AlisonJeffrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
