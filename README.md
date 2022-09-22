@@ -1,6 +1,8 @@
 ### Hi, I'm Alison 🌿
 
-Web developer based in Osaka, Japan.
+### Web developer based in Osaka, Japan.
+
+I enjoy the process of creating websites, from brainstorming and spitballing ideas to creating fully formed and functional (and beautiful) websites.
 
 <!--
 
