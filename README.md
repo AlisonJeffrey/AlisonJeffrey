@@ -10,7 +10,7 @@ Contact me:
 
 LinkedIn 
 Portfolio
-Email
+Email - alisonnwebb@hotmail.com
 
 **AlisonJeffrey/AlisonJeffrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
