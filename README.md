@@ -8,7 +8,7 @@ I enjoy the process of creating websites, from brainstorming and spitballing ide
 
 Contact me:
 
-LinkedIn - AlisonJeffrey
+LinkedIn - @AlisonJeffrey
 Portfolio - alisonjeffrey.me
 Email - alisonnwebb@hotmail.com
 
