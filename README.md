@@ -6,11 +6,12 @@ I enjoy the process of creating websites, from brainstorming and spitballing ide
 
 <!--
 
-Contact me:
+How to get in touch:
 
 LinkedIn - @AlisonJeffrey
 Portfolio - alisonjeffrey.me
 Email - alisonnwebb@hotmail.com
+
 
 **AlisonJeffrey/AlisonJeffrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
